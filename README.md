@@ -5,7 +5,7 @@
 ```javascript
 const personalProfile = {
   name: "Cristiano Soares",
-  age: 23,
+  age: 24,
   location: "Brazil",
   state: "Pernambuco",
   city: "Recife",
