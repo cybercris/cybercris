@@ -5,7 +5,7 @@
 ```javascript
 const personalProfile = {
   name: "Cristiano Soares",
-  age: 25,
+  age: 26,
   location: "Brazil",
   state: "Pernambuco",
   city: "Recife",
@@ -13,9 +13,10 @@ const personalProfile = {
 
 const devProfile = {
   skills: {
-    languages: [["JS", "TS"], "Java"],
-    web: ["HTML5", "CSS3", "Web Protocols", "API", ...others],
-    frameworksAndLibrarys: ["React Native", "ReactJS", "Angular", "AngularJS", "NodeJS", "GraphQL", ...others],
-    reactTools: ["Animations", "Hooks", "Redux", "Context", "Axios", "SWR", ...others],
+    languages: [["JS", "TS"], "Java", "C#"],
+    web: ["HTML5", "CSS3", "Web Protocols", "API Rest", "Animations", ...others],
+    frameworksAndLibrarys: ["NextJS", "React Native", "ReactJS", "NodeJS", "GraphQL", ...others],
+    reactTools: ["Functions", "Hooks", "Redux", "Context API", "SSR", ...others],
+    databases: ["SQL", "NoSQL"],
   },
 };
